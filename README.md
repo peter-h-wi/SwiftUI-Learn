@@ -12,4 +12,4 @@ This repository is for storing files that I created for learning.
 ### Design Patterns
 |Name|Description|Screenshots|
 |--|--|--|
-|[SwiftUI MVVM](DesignPattern/SwiftUI-MVVM)|Move Network Mudule from View to ViewModel|<img src="DesignPattern/SwiftUI-MVVM/Screenshots/frame_1.png" width="150"/><img src="DesignPattern/SwiftUI-MVVM/Screenshots/frame_2.png" width="150"/>|
+|[SwiftUI MVVM](DesignPattern/SwiftUI-MVVM/MVVM)|Move Network Mudule from View to ViewModel|<img src="DesignPattern/SwiftUI-MVVM/MVVM/Screenshots/frame_1.png" width="150"/><img src="DesignPattern/SwiftUI-MVVM/MVVM/Screenshots/frame_2.png" width="150"/>|
